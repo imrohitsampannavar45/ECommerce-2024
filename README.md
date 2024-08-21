@@ -60,3 +60,10 @@ This project is an Ecommerce Clothing Website designed to provide a seamless sho
 
 4. Run the Project
     ``` npm run dev  ```
+
+
+##   Preview 
+
+https://github.com/user-attachments/assets/fecadec2-82ba-4de1-a9c5-e39cc5add321
+
+

@@ -45,5 +45,13 @@ This project is an Ecommerce Clothing Website designed to provide a seamless sho
 ## Installation
 
 1. Clone the repository:
-   ```bash
- git clone  https://github.com/imrohitsampannavar45/ECommerce-2024.git
+   ```bash   git clone  https://github.com/imrohitsampannavar45/ECommerce-2024.git ```
+
+2. Change Directory
+   ``` bash cd frontend ```
+
+3. Install Dependencies
+``` bash npm install ```
+
+4. Run the Project
+    ``` npm run dev  ```

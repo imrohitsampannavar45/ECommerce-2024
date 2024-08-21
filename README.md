@@ -1,8 +1,49 @@
-# React + Vite
+# Ecommerce Clothing Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Overview
 
-Currently, two official plugins are available:
+This project is an Ecommerce Clothing Website designed to provide a seamless shopping experience for users. The website allows customers to purchase a variety of clothing items, including men's, women's, and kids' wear. The platform features a robust sorting and filtering system, user authentication, and multiple payment options.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+
+- **Product Categories**: 
+  - Men’s Wear
+  - Women’s Wear
+  - Kids' Wear
+  - Bottom Wear
+  - Top Wear
+  - Winter Wear
+
+- **Sorting and Filtering**:
+  - Sort by price: High to Low, Low to High
+  - Filters for Men, Women, and Kids
+
+- **User Authentication**:
+  - Login and Sign Up
+
+- **Pages**:
+  - **Contact Us**: Get in touch with the team.
+  - **About Us**: Learn more about the company.
+
+- **Shopping Cart**:
+  - Add to Cart functionality
+
+- **Order Tracking**:
+  - My Orders page to track the status of orders
+
+- **Payment Methods**:
+  - Supports Razorpay, Stripe, and Cash on Delivery
+
+## Technologies Used
+
+- **Frontend**: HTML, CSS, JavaScript, ReactJS
+- **Backend**: NodeJS, ExpressJS
+- **Database**: MongoDB
+- **Payment Integration**: Razorpay, Stripe
+- **Version Control**: Git
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+ git clone  https://github.com/imrohitsampannavar45/ECommerce-2024.git

@@ -1,5 +1,10 @@
 # Ecommerce Clothing Website
 
+
+## Live Preview 
+
+https://e-commerce-2024-psi.vercel.app/
+
 ## Overview
 
 This project is an Ecommerce Clothing Website designed to provide a seamless shopping experience for users. The website allows customers to purchase a variety of clothing items, including men's, women's, and kids' wear. The platform features a robust sorting and filtering system, user authentication, and multiple payment options.
